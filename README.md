@@ -2,8 +2,6 @@
 
 ## Domain Modelling ##
 
-![Uploading zenhomes-domain-modelling.png…]()
-
 
 #### Cases Covered: ####
 

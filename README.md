@@ -2,7 +2,7 @@
 
 ## Domain Modelling ##
 
-![](images/zenhomes-domain-modelling/zenhomes-domain-modelling.png)
+<img src = "images/zenhomes-domain-modelling/zenhomes-domain-modelling.png">
 
 #### Cases Covered: ####
 
